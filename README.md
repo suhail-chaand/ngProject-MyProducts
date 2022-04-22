@@ -1,4 +1,4 @@
-<h2>Angular Assignment 01<h2>
+<h2>Angular Assignment 01: Project - My Products<h2>
 <ul>
 <li>Create an angular application using angular-cli</li>
 <li>Create a component for Welcome screen which includes:
@@ -39,7 +39,8 @@
     <li>Should contain back button to go back on list page</li>
     </ol>
 </li>
-<li>Use of life cycle hooks●Use routing to redirect user from one page to another</li>
+<li>Use of life cycle hooks</li>
+<li>Use routing to redirect user from one page to another</li>
 <li>Must follow validation on form fields mentioned next to the field name.</li>
 <li>Use bootstrap using CDN for table, buttons and form design</li>
 <li>All are individuals component which are highlighted above</li>
